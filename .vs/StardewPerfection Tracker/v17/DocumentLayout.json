@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Niklas\\source\\repos\\StardewPerfection Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD76FC-569E-4A4C-824C-AA7F554C2A13}|StardewPerfection Tracker\\StardewPerfection Tracker.csproj|c:\\users\\niklas\\source\\repos\\stardewperfection tracker\\stardewperfection tracker\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD76FC-569E-4A4C-824C-AA7F554C2A13}|StardewPerfection Tracker\\StardewPerfection Tracker.csproj|solutionrelative:stardewperfection tracker\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD76FC-569E-4A4C-824C-AA7F554C2A13}|StardewPerfection Tracker\\StardewPerfection Tracker.csproj|c:\\users\\niklas\\source\\repos\\stardewperfection tracker\\stardewperfection tracker\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD76FC-569E-4A4C-824C-AA7F554C2A13}|StardewPerfection Tracker\\StardewPerfection Tracker.csproj|solutionrelative:stardewperfection tracker\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 196,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Niklas\\source\\repos\\StardewPerfection Tracker\\StardewPerfection Tracker\\App.xaml.cs",
+              "RelativeDocumentMoniker": "StardewPerfection Tracker\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Niklas\\source\\repos\\StardewPerfection Tracker\\StardewPerfection Tracker\\App.xaml.cs",
+              "RelativeToolTip": "StardewPerfection Tracker\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:12:11.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Niklas\\source\\repos\\StardewPerfection Tracker\\StardewPerfection Tracker\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "StardewPerfection Tracker\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Niklas\\source\\repos\\StardewPerfection Tracker\\StardewPerfection Tracker\\MauiProgram.cs",
+              "RelativeToolTip": "StardewPerfection Tracker\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:05:54.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
